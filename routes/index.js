@@ -4,5 +4,7 @@
  */
 
 exports.index = function(req, res){
-  res.render('index', { title: 'maxoil.com.ua' });
+    var logger = req.log4js.getLogger('Requests');
+    logger.debug('main request');
+    res.render('index', { title: 'maxoil.com.ua' });
 };

@@ -1,0 +1,26 @@
+{
+    "appenders": [
+        { "type": "console" },
+        {
+            "type": "file",
+            "filename": "logs/app.log",
+            "maxLogSize": 20480,
+            "backups": 3,
+            "category": "App"
+        },
+        {
+            "type": "file",
+            "filename": "logs/db.log",
+            "maxLogSize": 20480,
+            "backups": 3,
+            "category": "Mongo"
+        },
+        {
+            "type": "file",
+            "filename": "logs/requests.log",
+            "maxLogSize": 20480,
+            "backups": 3,
+            "category": "Requests"
+        }
+    ]
+}

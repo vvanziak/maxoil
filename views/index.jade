@@ -1,5 +1,14 @@
 extends layout
-
-block content
-  h1= title
-  p Welcome to #{title}
+body
+  block content
+    h1= title
+    p Welcome to #{title}
+      form
+        | First name
+        input#user-first-name
+        | Last name
+        input#user-last-name
+        <br />
+        input(id="create",type="button",value="Create")
+        input(id="read",type="button",value="Read")
+    div#list

@@ -1,0 +1,36 @@
+body {
+	background: #dadada url(../images/body-bg.jpg) no-repeat 1040% top;
+}
+.top_bar	{
+	float:right;
+}
+.header{
+	float:right;
+}
+.intro_box{
+	float: right;
+}
+.latest_products{
+	float:right;
+}
+.latest_offers{
+	float:right;
+}
+.store_tweets{
+	float:right;
+}
+.products_listing{
+	float:right;
+}
+.products_details{
+	float:right;
+}
+.shopping_cart {
+	float:right;
+}
+.main_content {
+	float:right;
+}
+#footer{
+	float:right;
+}

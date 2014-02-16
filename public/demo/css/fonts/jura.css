@@ -1,0 +1,53 @@
+
+@font-face {
+    font-family: 'jurabook';
+    src: url('jura-book.eot');
+    src: url('jura-book.eot?#iefix') format('embedded-opentype'),
+         url('jura-book.woff') format('woff'),
+         url('jura-book.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
+
+
+@font-face {
+    font-family: 'jurademibold';
+    src: url('jura-demibold.eot');
+    src: url('jura-demibold.eot?#iefix') format('embedded-opentype'),
+         url('jura-demibold.woff') format('woff'),
+         url('jura-demibold.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+
+}
+
+
+
+
+@font-face {
+    font-family: 'juralight';
+    src: url('jura-light.eot');
+    src: url('jura-light.eot?#iefix') format('embedded-opentype'),
+         url('jura-light.woff') format('woff'),
+         url('jura-light.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
+
+
+@font-face {
+    font-family: 'juramedium';
+    src: url('jura-medium.eot');
+    src: url('jura-medium.eot?#iefix') format('embedded-opentype'),
+         url('jura-medium.woff') format('woff'),
+         url('jura-medium.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+
+}

@@ -1,0 +1,48 @@
+body {
+	background: #dadada url(../images/body-bg.jpg) no-repeat -50% top;
+}
+.top_bar	{
+	float:none;
+	margin:0px auto;
+}
+.header{
+	float:none;
+	margin:0px auto;
+	border-right:none;
+}
+.intro_box{
+	float:none;
+	margin:0px auto;
+}
+.latest_products{
+	float:none;
+	margin:0px auto;
+}
+.latest_offers{
+	float:none;
+	margin:0px auto;
+}
+.store_tweets{
+	float:none;
+	margin:0px auto;
+}
+.products_listing{
+	float:none;
+	margin:0px auto;
+}
+.products_details{
+	float:none;
+	margin:0px auto;
+}
+.shopping_cart {
+	float:none;
+	margin:0px auto;
+}
+.main_content {
+	float:none;
+	margin:0px auto;
+}
+#footer{
+	float:none;
+	margin:0px auto;
+}

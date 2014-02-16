@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Attentica';
+    src: url('attentica_4f_ultralight.eot');
+    src: url('attentica_4f_ultralight.woff') format('woff'),
+         url('attentica_4f_ultralight.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}

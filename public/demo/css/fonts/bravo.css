@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'bravorgregular';
+    src: url('bravorg.eot');
+    src: url('bravorg.eot?#iefix') format('embedded-opentype'),
+         url('bravorg.woff') format('woff'),
+         url('bravorg.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
